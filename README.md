@@ -32,7 +32,3 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
 -  Add data augmentation  
 -  Convert to Jupyter notebook  
 -  Upload pretrained `.pt` model  
-
-Convert to notebook
-
-Upload pretrained .pt model
