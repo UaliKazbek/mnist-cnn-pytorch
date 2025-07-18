@@ -13,26 +13,25 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
 - matplotlib
 - tqdm
 
-Training Features:
-CNN architecture: 2 conv layers + 2 linear layers
 
-CrossEntropyLoss
+## 🚀 Training Features
 
-Adam optimizer
+- ✅ CNN architecture: 2 conv layers + 2 linear layers  
+- ✅ `CrossEntropyLoss`  
+- ✅ `Adam` optimizer  
+- ✅ `ReduceLROnPlateau` scheduler  
+- ✅ Early stopping logic  
+- ✅ Saving best model `.pt`  
+- ✅ Live loss & accuracy plots with matplotlib  
 
-ReduceLROnPlateau scheduler
+---
 
-Early stopping logic
+## 🔮 Future improvements
 
-Saving best model
-
-Live loss & accuracy plots
-
-
-Future improvements:
-Add test loop
-
-Add data augmentation
+- [ ] Add test loop  
+- [ ] Add data augmentation  
+- [ ] Convert to Jupyter notebook  
+- [ ] Upload pretrained `.pt` model  
 
 Convert to notebook
 
