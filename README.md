@@ -13,19 +13,6 @@ This project implements a Convolutional Neural Network (CNN) for handwritten dig
 - matplotlib
 - tqdm
 
-Dataset
-Data should be structured as:
-
-dataset/
-├── training/
-│ ├── 0/
-│ ├── 1/
-│ └── ...
-└── testing/
-├── 0/
-├── 1/
-└── ...
-
 Training Features:
 CNN architecture: 2 conv layers + 2 linear layers
 
